@@ -16,3 +16,6 @@ Certificate can be viewed [here](https://www.hackerrank.com/certificates/6ef0459
 ## Programs 
 - [GCD SubSequence](src/GCDSubSequence.java)
 - [Marketing Strategy](src/MarketingStrategy.java)
+
+## Certificate
+![certificate](certificate.png)
