@@ -11,7 +11,7 @@
 
 Took this test on HackerRank [here](https://www.hackerrank.com/skills-verification) 
 on __14th July 2020__. 
-Certificate can be viewed [here]()
+Certificate can be viewed [here](https://www.hackerrank.com/certificates/6ef045988fd1)
 
 ## Programs 
 - [GCD SubSequence](src/GCDSubSequence.java)
